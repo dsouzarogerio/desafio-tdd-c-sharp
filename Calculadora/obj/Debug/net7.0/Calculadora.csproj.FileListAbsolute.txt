@@ -1,0 +1,14 @@
+D:\workspace-dio\bootcamp-wex\desafio-tdd-testes-unitarios\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace-dio\bootcamp-wex\desafio-tdd-testes-unitarios\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+D:\workspace-dio\bootcamp-wex\desafio-tdd-testes-unitarios\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+D:\workspace-dio\bootcamp-wex\desafio-tdd-testes-unitarios\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\workspace-dio\bootcamp-wex\desafio-tdd-testes-unitarios\Calculadora\bin\Debug\net7.0\Calculadora.exe
+D:\workspace-dio\bootcamp-wex\desafio-tdd-testes-unitarios\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+D:\workspace-dio\bootcamp-wex\desafio-tdd-testes-unitarios\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+D:\workspace-dio\bootcamp-wex\desafio-tdd-testes-unitarios\Calculadora\bin\Debug\net7.0\Calculadora.dll
+D:\workspace-dio\bootcamp-wex\desafio-tdd-testes-unitarios\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+D:\workspace-dio\bootcamp-wex\desafio-tdd-testes-unitarios\Calculadora\obj\Debug\net7.0\Calculadora.dll
+D:\workspace-dio\bootcamp-wex\desafio-tdd-testes-unitarios\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+D:\workspace-dio\bootcamp-wex\desafio-tdd-testes-unitarios\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+D:\workspace-dio\bootcamp-wex\desafio-tdd-testes-unitarios\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+D:\workspace-dio\bootcamp-wex\desafio-tdd-testes-unitarios\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
